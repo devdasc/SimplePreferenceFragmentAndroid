@@ -1,4 +1,4 @@
-package com.example.inika.simplepreferencefragment;
+package com.example.devdas.simplepreferencefragment;
 
 import org.junit.Test;
 

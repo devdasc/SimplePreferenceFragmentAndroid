@@ -1,8 +1,7 @@
-package com.example.inika.simplepreferencefragment;
+package com.example.devdas.simplepreferencefragment;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
-import android.preference.PreferenceFragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
